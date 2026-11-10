@@ -30,3 +30,7 @@ cortrace arm --platform stm32f429 --os none --probe-telnet 127.0.0.1:<port> --pr
 ```
 
 See `docs/13-stm32f429.md` in the cortrace repository. Use the 2-bit port.
+
+## License
+
+MIT, see [LICENSE](LICENSE). The CMSIS headers cloned into `Drivers/` keep their own licenses.
